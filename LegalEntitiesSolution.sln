@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1062
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellChecker", "SpellChecker\SpellChecker.csproj", "{BC238784-07EC-4FCA-B943-20ED32FCC7DD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{D8AA00D8-473C-40CD-9206-B4C4B0E3E915}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegalEntitiesProject", "..\..\LegalEntitiesSolution\LegalEntitiesProject\LegalEntitiesProject.csproj", "{BC238784-07EC-4FCA-B943-20ED32FCC7DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{BC238784-07EC-4FCA-B943-20ED32FCC7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC238784-07EC-4FCA-B943-20ED32FCC7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC238784-07EC-4FCA-B943-20ED32FCC7DD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D8AA00D8-473C-40CD-9206-B4C4B0E3E915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D8AA00D8-473C-40CD-9206-B4C4B0E3E915}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8AA00D8-473C-40CD-9206-B4C4B0E3E915}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8AA00D8-473C-40CD-9206-B4C4B0E3E915}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

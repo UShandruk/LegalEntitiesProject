@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SpellChecker\SpellChecker.csproj" />
+    <ProjectReference Include="..\LegalEntitiesProject\LegalEntitiesProject.csproj" />
   </ItemGroup>
 
 </Project>
